@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^7.1.6",
+    "astro": "^7.2.8",
     "astro-relative-links": "^0.4.2",
     "sass": "^1.69.4",
     "swiper": "^12.2.0"
@@ -21,7 +21,7 @@
     "js-yaml": "^4.3.0",
     "postcss": "^8.5.18",
     "fast-uri": "^3.1.4",
-    "svgo": "^4.0.2",
+    "svgo": "^4.1.0",
     "ws": "^8.21.0",
     "brace-expansion@1": "1.1.18",
     "brace-expansion@2": "2.1.4",
